@@ -18,7 +18,7 @@ import PageOne from './views/PageOne.vue'
     <div class="goal">我是目标</div>
   </div>
   <div class="goal">我是目标2</div> -->
- 
+ <!-- 哈哈哈哈 -->
 </template>
 
 <style scoped lang="less">
